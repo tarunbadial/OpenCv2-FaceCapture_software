@@ -1,17 +1,21 @@
 # Face Recognition System
-In this project my aim to detect the known and unknown people by camera.
+
+In this project my aim to detect the known and unknown peoples by camera and show in the window with name when he detect known people.
 
 ## Technology & Concept:
+
 In this I am using the Opencv library for performing all operation. Tkinter libaray use for designed the user friendly  interface for get training data. In this project  i  used the opencv face recognition LBNF for training and prediction.
 
 ## System Requirements:
+
 ### Software / Libaraies:
 * Python 3.7 [download](https://www.python.org/downloads/)
 * Tkinter library for GUI download steps:
   * Open the terminal and run the pip3 install tkinter
 * Opencv download steps:
-   * You can be follow the this link:[Link](https://docs.opencv.org/3.4/d2/de6/tutorial_py_setup_in_ubuntu.html)
-* Operating System: Ubuntu 18.0
+  * You can be follow the this link:[Link](https://docs.opencv.org/3.4/d2/de6/tutorial_py_setup_in_ubuntu.html)
+* Operating System: Ubuntu 18.04
+
 ### Hardware Requirements:
 * Ram 4GB
 * Usb Camera 3.0
@@ -30,7 +34,7 @@ In this I am using the Opencv library for performing all operation. Tkinter liba
 
 ![FillData](/FaceRecognitionSimple/images/4.png)
 
-*After Fill data click the Capture Button then appears the following Screen: 
+* After Fill data click the Capture Button then appears the following Screen: 
 
 ![FrameScreen](/FaceRecognitionSimple/images/)
 
@@ -53,4 +57,4 @@ In this I am using the Opencv library for performing all operation. Tkinter liba
 ## Reference:
 * [Pyimagesearch](https://www.pyimagesearch.com) 
 
-* [Learnipencv](https://www.learnopencv.com/amp/)
+* [Learnopencv](https://www.learnopencv.com/amp/)
