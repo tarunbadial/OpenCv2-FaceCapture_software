@@ -46,10 +46,11 @@ In this I am using the Opencv library for performing all operation. Tkinter liba
 
 ![TerminalCmd](/FaceRecognitionSimple/images/7.png)
 
-*Then the following screen appeared.
+* Then the following screen appeared.
 
 ![TestingScreen](/FaceRecognitionSimple/images/)
 
 ## Reference:
-*[Pyimagesearch](https://www.pyimagesearch.com)
-*[Learnipencv](https://www.learnopencv.com/amp/)
+* [Pyimagesearch](https://www.pyimagesearch.com) 
+
+* [Learnipencv](https://www.learnopencv.com/amp/)
