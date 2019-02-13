@@ -36,7 +36,7 @@ In this I am using the Opencv library for performing all operation. Tkinter liba
 
 * After Fill data click the Capture Button then appears the following Screen: 
 
-![FrameScreen](/FaceRecognitionSimple/images/)
+![FrameScreen](/FaceRecognitionSimple/images/7.png)
 
 * After some time user data added successful window appeared.
 
@@ -48,11 +48,11 @@ In this I am using the Opencv library for performing all operation. Tkinter liba
 
 * Then open the terminal window and go to the project folder and run the command python3 face_recognition.py :
 
-![TerminalCmd](/FaceRecognitionSimple/images/7.png)
+![TerminalCmd](/FaceRecognitionSimple/images/1.png)
 
 * Then the following screen appeared.
 
-![TestingScreen](/FaceRecognitionSimple/images/)
+![TestingScreen](/FaceRecognitionSimple/images/8.png)
 
 ## Reference:
 * [Pyimagesearch](https://www.pyimagesearch.com) 
