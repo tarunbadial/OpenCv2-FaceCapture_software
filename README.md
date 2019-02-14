@@ -11,9 +11,13 @@ In this I am using the Opencv library for performing all operation. Tkinter liba
 ### Software / Libaraies:
 * Python 3.7 [download](https://www.python.org/downloads/)
 * Tkinter library for GUI download steps:
-  * Open the terminal and run the pip3 install tkinter
+  * Open the terminal
+  * Run the pip3 install tkinter
 * Opencv download steps:
-  * You can be follow the this link:[Link](https://docs.opencv.org/3.4/d2/de6/tutorial_py_setup_in_ubuntu.html)
+  * You can be follow the this link:[Link Setup OpenCv](https://docs.opencv.org/3.4/d2/de6/tutorial_py_setup_in_ubuntu.html)
+* Numpy library for face embeding Steps:
+  * Open Terminal Of ubuntu
+  * Run Command pip3 install numpy
 * Operating System: Ubuntu 18.04
 
 ### Hardware Requirements:
