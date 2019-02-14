@@ -16,7 +16,7 @@ In this I am using the Opencv library for performing all operation. Tkinter liba
 * Opencv download steps:
   * You can be follow the this link:[Link Setup OpenCv](https://docs.opencv.org/3.4/d2/de6/tutorial_py_setup_in_ubuntu.html)
 * Numpy library for face embeding Steps:
-  * Open Terminal Of ubuntu
+  * Open the Terminal
   * Run Command pip3 install numpy
 * Operating System: Ubuntu 18.04
 
