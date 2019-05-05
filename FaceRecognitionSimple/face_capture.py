@@ -38,7 +38,7 @@ class capture_face:
     def shot(self):
         try:
             vid_cam = cv2.VideoCapture(0)
-            face_detector = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+            face_detector = cv2.CascadeClassifier('frontalface_default.xml')
             count = 0
             img_count=102
             while(True):
