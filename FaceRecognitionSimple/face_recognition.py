@@ -37,8 +37,11 @@ while True:
         Id, confidence = detect.predict(gray[y:y+h,x:x+w]) 
         print(Id )
         print(confidence)
-        if Id == Id:
-            Id = "%s %d"%(name[Id],Id)  
+        if confidence >=70:
+			if Id == Id:
+				Id = "%s %d"%(name[Id],Id)  
+			else:
+				Id="Unknown"
         # Set rectangle around face and name of the person
         cv2.rectangle(img, (x-22,y-40), (x+w+22, y-10), (0,255,0), -1)
         cv2.putText(img, str(Id), (x,y-20), font, 0.8, (255,255,255), 2)
